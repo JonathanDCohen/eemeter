@@ -348,7 +348,7 @@ date::
 
     import pandas as pd
     import eemeter
-    from dateime import datetime
+    from datetime import datetime
     import pytz
 
     meter_data = pd.DataFrame(
